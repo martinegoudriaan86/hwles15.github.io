@@ -1,0 +1,47 @@
+ul a{
+    color: white;
+    text-decoration: none;
+    }
+    li{
+    display: inline-block;
+    height: 22px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    border-left: 2px solid goldenrod;
+    border-right: 1px solid goldenrod;
+    background-color: goldenrod;
+    }
+    li:hover{
+    background-color: silver;
+    border-style: none;
+    }
+
+.p1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+.p2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .p3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
